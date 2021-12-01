@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           <h1> ようこそ！</h1>
+          <h2>Yamashita Deth!</h2>
         </a>
       </header>
     </div>
